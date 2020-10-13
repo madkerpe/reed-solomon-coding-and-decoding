@@ -1,0 +1,108 @@
+=====
+Configuration: 0
+Scratch length: 100
+Error probability: 0.000
+Elapsed time is 0.251778 seconds.
+Elapsed time is 0.108437 seconds.
+Number samples with erasure flags: 0
+Number samples with failed interpolations: 0
+Number undetected errors: 81
+=====
+Configuration: 0
+Scratch length: 3000
+Error probability: 0.000
+Elapsed time is 0.194673 seconds.
+Elapsed time is 0.077498 seconds.
+Number samples with erasure flags: 0
+Number samples with failed interpolations: 0
+Number undetected errors: 2074
+=====
+Configuration: 0
+Scratch length: 10000
+Error probability: 0.000
+Elapsed time is 0.184304 seconds.
+Elapsed time is 0.078041 seconds.
+Number samples with erasure flags: 0
+Number samples with failed interpolations: 0
+Number undetected errors: 6881
+=====
+Configuration: 1
+Scratch length: 100
+Error probability: 0.000
+Elapsed time is 3.337267 seconds.
+Elapsed time is 4.821128 seconds.
+Number samples with erasure flags: 0
+Number samples with failed interpolations: 0
+Number undetected errors: 0
+=====
+Configuration: 1
+Scratch length: 3000
+Error probability: 0.000
+Elapsed time is 3.290174 seconds.
+Elapsed time is 4.497032 seconds.
+Number samples with erasure flags: 0
+Number samples with failed interpolations: 0
+Number undetected errors: 0
+=====
+Configuration: 1
+Scratch length: 10000
+Error probability: 0.000
+Elapsed time is 3.077570 seconds.
+Elapsed time is 5.958370 seconds.
+Number samples with erasure flags: 6840
+Number samples with failed interpolations: 0
+Number undetected errors: 0
+=====
+Configuration: 2
+Scratch length: 100
+Error probability: 0.000
+Elapsed time is 2.995281 seconds.
+Elapsed time is 4.554074 seconds.
+Number samples with erasure flags: 252
+Number samples with failed interpolations: 168
+Number undetected errors: 0
+=====
+Configuration: 2
+Scratch length: 3000
+Error probability: 0.000
+Elapsed time is 2.957599 seconds.
+Elapsed time is 4.884630 seconds.
+Number samples with erasure flags: 336
+Number samples with failed interpolations: 0
+Number undetected errors: 1800
+=====
+Configuration: 2
+Scratch length: 10000
+Error probability: 0.000
+Elapsed time is 2.972700 seconds.
+Elapsed time is 4.459497 seconds.
+Number samples with erasure flags: 288
+Number samples with failed interpolations: 0
+Number undetected errors: 6432
+=====
+Configuration: 3
+Scratch length: 100
+Error probability: 0.000
+Elapsed time is 1.484509 seconds.
+Elapsed time is 1.951549 seconds.
+Number samples with erasure flags: 168
+Number samples with failed interpolations: 0
+Number undetected errors: 0
+=====
+Configuration: 3
+Scratch length: 3000
+Error probability: 0.000
+Elapsed time is 1.519615 seconds.
+Elapsed time is 2.033873 seconds.
+Number samples with erasure flags: 192
+Number samples with failed interpolations: 0
+Number undetected errors: 1876
+=====
+Configuration: 3
+Scratch length: 10000
+Error probability: 0.000
+Elapsed time is 1.552388 seconds.
+Elapsed time is 2.047418 seconds.
+Number samples with erasure flags: 216
+Number samples with failed interpolations: 0
+Number undetected errors: 6449
